@@ -1,2 +1,2 @@
 # hello-world
-This is the hello-world tutorial/lab that must be completed for CSC 154
+This is the edited version of README.md to showcase the branch function of GitHub's version control system.
